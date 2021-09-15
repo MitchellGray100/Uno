@@ -1,0 +1,464 @@
+{
+	"Game": "Uno",
+	"Deck": [
+		{
+			"color": "Green",
+			"indicator": "One"
+		},
+		{
+			"color": "Green",
+			"indicator": "Four"
+		},
+		{
+			"color": "Red",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Green",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Red",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Red",
+			"indicator": "Three"
+		},
+		{
+			"color": "Green",
+			"indicator": "Four"
+		},
+		{
+			"color": "Red",
+			"indicator": "Two"
+		},
+		{
+			"color": "Green",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Blue",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Red",
+			"indicator": "Two"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Two"
+		},
+		{
+			"color": "Green",
+			"indicator": "Five"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Red",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Red",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Green",
+			"indicator": "Five"
+		},
+		{
+			"color": "Red",
+			"indicator": "One"
+		},
+		{
+			"color": "Red",
+			"indicator": "Four"
+		},
+		{
+			"color": "Red",
+			"indicator": "Six"
+		},
+		{
+			"color": "Green",
+			"indicator": "Six"
+		},
+		{
+			"color": "Green",
+			"indicator": "One"
+		},
+		{
+			"color": "Green",
+			"indicator": "Two"
+		},
+		{
+			"color": "Wild",
+			"indicator": "ChooseColor"
+		},
+		{
+			"color": "Green",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Green",
+			"indicator": "Two"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "One"
+		},
+		{
+			"color": "Green",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Wild",
+			"indicator": "PlusFour"
+		},
+		{
+			"color": "Wild",
+			"indicator": "PlusFour"
+		},
+		{
+			"color": "Green",
+			"indicator": "Three"
+		},
+		{
+			"color": "Wild",
+			"indicator": "ChooseColor"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Wild",
+			"indicator": "ChooseColor"
+		},
+		{
+			"color": "Wild",
+			"indicator": "PlusFour"
+		},
+		{
+			"color": "Wild",
+			"indicator": "ChooseColor"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Wild",
+			"indicator": "PlusFour"
+		},
+		{
+			"color": "Red",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Six"
+		},
+		{
+			"color": "Red",
+			"indicator": "Six"
+		},
+		{
+			"color": "Red",
+			"indicator": "Four"
+		},
+		{
+			"color": "Green",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Six"
+		},
+		{
+			"color": "Blue",
+			"indicator": "One"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Five"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Four"
+		},
+		{
+			"color": "Green",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Five"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Three"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Red",
+			"indicator": "One"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Four"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Two"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Two"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Four"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "One"
+		},
+		{
+			"color": "Blue",
+			"indicator": "One"
+		},
+		{
+			"color": "Red",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Red",
+			"indicator": "Five"
+		},
+		{
+			"color": "Red",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Red",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Red",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Red",
+			"indicator": "Five"
+		},
+		{
+			"color": "Red",
+			"indicator": "Three"
+		} ],
+	"Player_zero": [
+		{
+			"color": "Green",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Green",
+			"indicator": "Six"
+		},
+		{
+			"color": "Green",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Three"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Five"
+		} ],
+	"Player_one": [
+		{
+			"color": "Red",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Blue",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Skip"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Three"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Four"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Seven"
+		} ],
+	"Player_two": [
+		{
+			"color": "Blue",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Red",
+			"indicator": "Nine"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Eight"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Six"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Three"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Five"
+		},
+		{
+			"color": "Green",
+			"indicator": "Nine"
+		} ],
+	"Player_three": [
+		{
+			"color": "Red",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Green",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Two"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Green",
+			"indicator": "Reverse"
+		},
+		{
+			"color": "Blue",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Yellow",
+			"indicator": "Six"
+		},
+		{
+			"color": "Green",
+			"indicator": "Three"
+		} ],
+	"Discard_pile": [
+		{
+			"color": "Red",
+			"indicator": "Seven"
+		},
+		{
+			"color": "Red",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Green",
+			"indicator": "Zero"
+		},
+		{
+			"color": "Green",
+			"indicator": "PlusTwo"
+		},
+		{
+			"color": "Green",
+			"indicator": "Zero"
+		} ],
+	"Current_Player": "4",
+
+	"Direction": "forward",
+
+	"Color": "None",
+
+	"Ai_List": ["true","true","true","false" ]
+}
